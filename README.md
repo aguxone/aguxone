@@ -12,6 +12,8 @@
 
 • 🧑‍🔬 Experience in chemical lab work, analytical development in pharmaceutical industry (focused on HPLC y and many methods).
 
+LINKED IN PROFILE: https://www.linkedin.com/in/agustin-a-garcia/
+
 • Skills : Chemistry, Physical chemistry, Analytical chemistry, HPLC, Data Science, Mathematics, Statistics, Daya Analysis, p-value analysis, Stock market, Finances, Economics, Criptocoins, Markets, Machine Learning, Excel, VBA, Python, C++, Javascript, HTML, CSS, regex, Django, SQL, MySQL, PostgreSQL, Numpy, Pandas, Seaborn, Matplotlib, Scipy, Statsmodels, Simpy, Plotly, Scikit-Learn, Tensorflow , GUI, Graphical User Interfaces, WxWidgets, ImGUI, Linear Regression, Logistic Regression, Regularization L1 and L2, Ridge, Lasso KNN, Support Vector machines SVM - Linear, RBF, Polynomial, Cross Validation, Classification Metrics, Precision - Recall -F1, ROC curves, Model Selection, Parameter optimization and tuning, Decision Trees, Random Forests, Gradient Boosting DT, Dimensionality Reduction, PCA, Clustering, Neural Networks, CNN, Multi-Layer Perceptron MLP.
 
 <!---
