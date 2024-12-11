@@ -1,16 +1,16 @@
 • 🧪⚗️ Degree in Chemistry obtained at Universidad de Buenos Aires, Argentina, Faculty of Natural and Exact sciences (6-year carreer).
 
-• 💻🐍 Trainee Software Developer using Python (mostly) and C++ (amongst others) for 2+ years, for scientific programming (mainly Data Science and Machine Learning) and general purpose programming like GUIs and various apps.
+• 💻🐍 Software Developer using Python (mostly) and C++ (amongst others) for 2+ years, for scientific programming (mainly Data Science and Machine Learning) and general purpose programming like GUIs and various apps.
 
 • 📈📊Experience as student and teacher at the university about selected topics from Machine Learning with Python (mainly by the use of Scikit-Learn)
 
-• 🌐💻Brief experience with web development in fronted (HTML,CSS) and backend (Django) by online courses.
+• 🌐💻Experience with web development in fronted (HTML,CSS) and backend (Django) by online courses. Freelance Vue JS developer.
 
-• 💵📉 Interest and development of financial predictions for stock market (mainly excel based), motivation for venturing into cryptomarkets.
+• 💵📉 Interest and development of financial predictions for stock market (excel based), motivation for venturing into cryptomarkets.
 
-• 🧑‍🏫Teaching experience at the university and also individual coaching (private teacher) on different scientific topics for all levels, also having skills at dance teaching, vocation for pedagogics, electronics and renewable energies.
+• 🧑🏫Teaching experience at the university and also individual coaching (private teacher) on different scientific topics for all levels, also having skills at dance teaching, vocation for pedagogics, electronics and renewable energies.
 
-• 🧑‍🔬 Experience in chemical lab work, analytical development in pharmaceutical industry (focused on HPLC y and many methods).
+• 🧑🔬 Experience in chemical lab work, analytical development in pharmaceutical industry (focused on HPLC y and many methods).
 
 LINKED IN PROFILE: https://www.linkedin.com/in/agustin-a-garcia/
 
